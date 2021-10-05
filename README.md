@@ -1,5 +1,6 @@
 
-
+<p align="center">
+<img hight="400" width="500" alt="GIF" src="https://github.com/MhmmdAmier/MhmmdAmier/blob/main/coding.webp">
 
 <p align="center" https://github.com/anuraghazra/github-readme-stats>
 <img src="https://github-readme-stats.vercel.app/api?username=MhmmdAmier&show_icons=true&theme=tokyonight">
