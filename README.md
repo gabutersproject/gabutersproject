@@ -1,5 +1,5 @@
 ### Stats 📋
-[![@amier_san09's Holopin board](https://holopin.io/api/user/board?user=amier_san09)](https://holopin.io/@amier_san09)
+[![An image of @amier_san09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amier_san09)](https://holopin.io/@amier_san09)
 <p align="center">
 <img align="center" hight="400" width="500" alt="GIF" src="https://github.com/gabutersproject/gabutersproject/blob/main/coding.webp">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabutersproject&show_icons=true&theme=tokyonight" />
