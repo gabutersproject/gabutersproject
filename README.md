@@ -2,9 +2,9 @@
 <a href="https://holopin.io/@gabutersproject"><img src="https://holopin.me/gabutersproject" alt="@gabutersproject&#39;s Holopin board"></a>
 
 ## 📊 Stats and Activity
-<a href="https://github.com/gabutersproject"><img height="288px" src="https://github-stats-extended.vercel.app/api?username=gabutersproject&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cissues_commented%2Ccontributions&show_icons=true&include_all_commits=true&theme=tokyonight"/></a>
-<a href="https://github.com/gabutersproject"><img height="283px" alt="GIF" src="https://github.com/gabutersproject/gabutersproject/blob/main/coding.webp"/></a>
-<p><a href="https://github.com/gabutersproject"><img width="100%" src="https://streak-stats.demolab.com/?user=gabutersproject&theme=tokyonight" alt="GitHub Contribution Streak"/></a></p>
+<a href="https://github.com/gabutersproject"><img width="100%" alt="GIF" src="https://github.com/gabutersproject/gabutersproject/blob/main/coding.webp"/></a>
+<a href="https://github.com/gabutersproject"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=gabutersproject&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cissues_commented%2Ccontributions&show_icons=true&include_all_commits=true&theme=tokyonight"/></a>
+<a href="https://github.com/gabutersproject"><img width="100%" src="https://streak-stats.demolab.com/?user=gabutersproject&theme=tokyonight" alt="GitHub Contribution Streak"/></a>
 
 ## 🛠️ My Favorite Tools
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
